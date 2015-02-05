@@ -1,8 +1,8 @@
 {
   "name": "pyladies-theme-ui",
   "theme": "ui",
-  "version": "0.0.0",
-  "description": "A theme for girls and ladies to interface components",
+  "version": "0.1.0",
+  "description": "A theme to girls and ladies for interface components",
   "license": "MIT",
   "repository": "https://github.com/horacioibrahim/pyladies-theme-ui",
   "engines": {
