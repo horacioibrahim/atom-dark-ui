@@ -1,9 +1,7 @@
 # Lelleca UI Theme for Atom
 
-A ladies theme for Atom.
+A theme to girls and ladies for Atom.
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_UI Themes_ drop-down menu.
+We are accustomed with the black screen (or dark themes). But some things have changed and one of them is the positive influence of girls in the software development. To bring my daughter, I made a custom UI and Syntax themes for the Atom, my super lightweight development IDE!
 
 ![](https://raw.githubusercontent.com/horacioibrahim/pyladies-theme-ui/master/assets/lelleca_theme.png)
